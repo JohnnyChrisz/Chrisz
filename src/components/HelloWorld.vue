@@ -6,7 +6,7 @@ defineProps({
   }
 })
 </script>
-
+--hello
 <template>
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
@@ -17,7 +17,7 @@ defineProps({
     </h3>
   </div>
 </template>
-
+<h1>ahjmr</h1>
 <style scoped>
 h1 {
   font-weight: 500;
